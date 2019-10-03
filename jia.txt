@@ -14,6 +14,25 @@ CERTIFICATIONS:
 . JavaScript Algorithms and Data - 08/30/19
 . Responsive Web Design - 08/30/19
 
+EXPERIENCE:
+. Angular, React, Vue
+. Modern JavaScript, C#, Python, PHP, VBA
+. HTML5, CSS3, jQuery, NPM, Github, Bitbucket
+. Node, Express, Mongodb, Firebase, Rethinkdb
+. Bootstrap, Material Design, Web Components
+. BaaS, CaaS Headless CMS, Jekyll, Markdown
+. D3, SVG, UI/UX, POC, Wireframes, mocks
+. Agile, SDLC, Kanban, Waterfall, SCRUM
+. SharePoint 2010, 2013, 2016, 365
+. Lotus Notes/Domino R3-R8
+
+
+WORK HISTORY:
+
+EDUCATION:
+USF, Tampa
+BA Business Management - MIS
+
 
 
 
