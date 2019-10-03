@@ -24,10 +24,33 @@ EXPERIENCE:
 . D3, SVG, UI/UX, POC, Wireframes, mocks
 . Agile, SDLC, Kanban, Waterfall, SCRUM
 . SharePoint 2010, 2013, 2016, 365
-. Lotus Notes/Domino R3-R8
-
+. Lotus Notes/Domino R3-R8, LotusScript
 
 WORK HISTORY:
+
+Xiconix - Tampa, FL
+2016/Present - Sr. Software Consultant
+
+Heritage Medcall - Tampa, FL
+2019/Present - Support Technician
+
+CGS - Tampa, FL
+2018/2019 - Technical Support
+
+Banker's Insurance - St. Petersburg, FL
+2017 - Angular Engineer
+
+Cardinal Solutions - Tampa, FL
+2017 - Software Consultant
+
+MetLife - Tampa, FL
+2008/2016 - Metrics Consultant II
+
+CGS - Detroit, MI
+
+CGS - Tampa, FL
+
+
 
 EDUCATION:
 USF, Tampa
