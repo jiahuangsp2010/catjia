@@ -39,31 +39,61 @@ connecting to various back-end databases
 such as MongoDB, RethinkDB, Firebase, and 
 SQL.
 
+1234567891123456789212345678931234567894123456
+
 Heritage Medcall - Tampa
 19-present: Support Specialist
 ...
-
-
+. Level I Support Technician responsible for
+support calls and building custom hardware 
+such as Custom Power Supplies and parts and
+configuring Windows 10 Servers with 
+SQL Server 2012.  
+. Custom SharePoint, Web Dev, and Salesforce 
+development as needed.
 
 1234567891123456789212345678931234567894123456
 
 CGS - Tampa
-18-19: Technical Support
+18-19: Technical Analyst
+...
+. Support for United Rentals and Revlon.
+. Assisted management in developing SharePoint
+Team Site and Salesforce custom views. 
+. Created reports and trained new Agents.
+
+1234567891123456789212345678931234567894123456
 
 Banker's Insurance - St. Petersburg
 17: Angular Engineer
+...
+. Hired to deliver features and fix bugs on
+an Agile SCRUM project which started 12 months
+ago with 3 months left.  
+. Developed user friendly Angular 4 features
+which the end users enjoyed.
+
+1234567891123456789212345678931234567894123456
 
 Cardinal Solutions - Tampa
 17: Software Consultant
 
+1234567891123456789212345678931234567894123456
+
 MetLife - Tampa
 08-16: Metrics Consultant II
+
+1234567891123456789212345678931234567894123456
 
 CGS - Tampa, Detroit
 06:08: Lotus Notes Consultant
 
+1234567891123456789212345678931234567894123456
+
 Certegy/Equifax/FIS - St. Pete
 00:06: Lotus Notes/Domino Developer
+
+1234567891123456789212345678931234567894123456
 
 E Solutions - Tampa
 99-00: Sr. Lotus Notes Consultant, Webmaster
@@ -73,17 +103,27 @@ E Solutions - Tampa
 IKON - Tampa, FL
 97-99: Sr. Lotus Notes/Domino Consultant
 
+1234567891123456789212345678931234567894123456
+
 Network Info Serve, Tampa
 96-97: Lotus Notes Consultant
+
+1234567891123456789212345678931234567894123456
 
 CGS, Tampa
 95-96: Level II Tech Support
 
+1234567891123456789212345678931234567894123456
+
 PaineWebber, Tampa
 92-95: Stockbroker
 
+1234567891123456789212345678931234567894123456
+
 Jim Walter Intl Sales, Tampa
 87-92: Area Sales Manager
+
+1234567891123456789212345678931234567894123456
 
 Telecredit - Tampa
 84-87: Telecomm Technician
