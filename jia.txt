@@ -1,3 +1,5 @@
+1234567891123456789212345678931234567894123456
+
 Jia Huang
 angular.jia@gmail.com | (813)415-5571 | Tampa 
 
@@ -28,24 +30,33 @@ EXPERIENCE:
 
 WORK HISTORY:
 
-Xiconix - Tampa, FL
-2016/Present - Sr. Software Consultant
+Xiconix - Tampa
+16-present: Owner, Full Stack Web Developer
+...
+Develop user friendly Single Page Apps using
+the latest Modern JavaScript Frameworks
+connecting to various back-end databases
+such as MongoDB, RethinkDB, Firebase, and 
+SQL.
 
-Heritage Medcall - Tampa, FL
-2019/Present - Support Specialist
+Heritage Medcall - Tampa
+19-present: Support Specialist
+...
+
+
 
 1234567891123456789212345678931234567894123456
 
-CGS - Tampa, FL
-18-19: - Technical Support
+CGS - Tampa
+18-19: Technical Support
 
-Banker's Insurance - St. Petersburg, FL
+Banker's Insurance - St. Petersburg
 17: Angular Engineer
 
-Cardinal Solutions - Tampa, FL
+Cardinal Solutions - Tampa
 17: Software Consultant
 
-MetLife - Tampa, FL
+MetLife - Tampa
 08-16: Metrics Consultant II
 
 CGS - Tampa, Detroit
@@ -83,18 +94,8 @@ EDUCATION:
 University of South Florida, Tampa
 BA Business Management - MIS
 
-
-
-
-
-
-
-
-
-
 1234567891123456789212345678931234567894123456
 
-1234567891123456789212345678931234567894123456
 
 
 
