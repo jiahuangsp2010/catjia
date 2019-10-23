@@ -1,13 +1,14 @@
-1234567891123456789212345678931234567894123456
-
-Jia Huang
-angular.jia@gmail.com | (813)415-5571 | Tampa 
+JIA HUANG
+jiahuangsp2010@gmail.com | (813)415-5571 
 
 OBJECTIVE:
-I am seeking an in-house Web Developer job in
+...
+I am an experience Full-Stack Web 
+Developer seeking an in-house position in
 Tampa Bay.  
 
 CERTIFICATIONS:
+...
 . APIs and Microservices - 08/30/19
 . Data Visualization - 08/30/19
 . Front End Libraries 08/28/19
@@ -15,8 +16,11 @@ CERTIFICATIONS:
 . Information Security and QA - 09/05/19
 . JavaScript Algorithms and Data - 08/30/19
 . Responsive Web Design - 08/30/19
+. CLS - Certified Lotus Specialist R3
+. CLP - Certified Lotus Professional R4-R6
 
 EXPERIENCE:
+...
 . Angular, React, Vue
 . Modern JavaScript, C#, Python, PHP, VBA
 . HTML5, CSS3, jQuery, NPM, Github, Bitbucket
@@ -33,69 +37,75 @@ WORK HISTORY:
 Xiconix - Tampa
 16-present: Owner, Full Stack Web Developer
 ...
-Develop user friendly Single Page Apps using
-the latest Modern JavaScript Frameworks
-connecting to various back-end databases
-such as MongoDB, RethinkDB, Firebase, and 
-SQL.
-
-1234567891123456789212345678931234567894123456
+. Full Stack Web Development Consulting 
+business building dynamic and static web
+sites serving Tampa Bay.
+. Specializing in Modern Javascript SPA using
+Angular 2+ framework.
 
 Heritage Medcall - Tampa
 19-present: Support Specialist
 ...
-. Level I Support Technician responsible for
-support calls and building custom hardware 
-such as Custom Power Supplies and parts and
-configuring Windows 10 Servers with 
-SQL Server 2012.  
+. Technician responsible for support calls, 
+on-site installations, repairs, custom server
+builds with Windows 10 and SQL 2012.  
 . Custom SharePoint, Web Dev, and Salesforce 
 development as needed.
-
-1234567891123456789212345678931234567894123456
 
 CGS - Tampa
 18-19: Technical Analyst
 ...
 . Support for United Rentals and Revlon.
 . Assisted management in developing SharePoint
-Team Site and Salesforce custom views. 
-. Created reports and trained new Agents.
-
-1234567891123456789212345678931234567894123456
+Team Site and Salesforce development. 
+. Created custom Call Analysis reports for
+management and trained new agents.
 
 Banker's Insurance - St. Petersburg
 17: Angular Engineer
 ...
-. Hired to deliver features and fix bugs on
-an Agile SCRUM project which started 12 months
-ago with 3 months left.  
-. Developed user friendly Angular 4 features
-which the end users enjoyed.
-
-1234567891123456789212345678931234567894123456
+. Joined Agile/SCRUM project for last sprints
+as Angular 4 Front-End Developer to deliver
+user-friendly features and bug fixes not 
+resolved by original developer.
+. Performed DevOp tasks such as automated 
+builds and production error log analysis.
 
 Cardinal Solutions - Tampa
 17: Software Consultant
-
-1234567891123456789212345678931234567894123456
+...
+. Developed Angular 2 Front-End and Web API
+for Orlando Magic's Automated Kudos SPA.
+. Redesigned KForce's Web Portal page on 
+SharePoint 365.
 
 MetLife - Tampa
 08-16: Metrics Consultant II
+...
+. In-house Lotus Notes automation, metrics,
+and compliance projects for 4 departments.
+. SharePoint 2010 Migration Project converting
+23 custom Notes databases while delivering
+feature for feature and maximizing MS Office
+integration.
+. Angular 2, Node, Socket.io development
+for team site.
 
-1234567891123456789212345678931234567894123456
-
-CGS - Tampa, Detroit
+CGS - Tampa and Detroit
 06:08: Lotus Notes Consultant
-
-1234567891123456789212345678931234567894123456
+...
+. Lotus Notes Consulting custom VBA report 
+project for Price Waterhouse in Tampa.
+. Lotus Notes Consulting Layout redesign
+project for Comerica Bank in Detroit.
 
 Certegy/Equifax/FIS - St. Pete
-00:06: Lotus Notes/Domino Developer
+00:06: Sr. Lotus Notes/Domino Developer
 ...
-.
-
-1234567891123456789212345678931234567894123456
+. In-house Lotus Notes/Domino Application 
+Development projects for various departments.
+. Developed and maintained Certegy  branding
+for global websites and Corporate Intranet.
 
 E Solutions - Tampa
 99-00: Sr. Lotus Notes Consultant, Webmaster
@@ -105,18 +115,13 @@ E Solutions - Tampa
 using HTML, Javascript, CSS, Flash, and 
 animated GIFs.
 
-1234567891123456789212345678931234567894123456
-
 IKON - Tampa, FL
 97-99: Sr. Lotus Notes/Domino Consultant
 ...
 . Ran Lotus sponsored Notes User group.
 . Taught Lotus Notes Classes.
-. Lotus Notes Consulting Projects for local
-companies in Financial and Manufacturing 
-business.
-
-1234567891123456789212345678931234567894123456
+. Lotus Notes Consulting both App Dev and 
+Admin for clients in South East Region.
 
 Network Info Serve, Tampa
 96-97: Lotus Notes Consultant
@@ -126,24 +131,18 @@ Network Info Serve, Tampa
 system which tracked deliverable using 
 automated workflow and ACL security.
 
-1234567891123456789212345678931234567894123456
-
 CGS, Tampa
 95-96: Level II Tech Support
 ...
 . Lotus Notes Level II support for E&Y Queue.
 . Developed Lotus Notes ACD Agent Database.
 
-1234567891123456789212345678931234567894123456
-
 PaineWebber, Tampa
 92-95: Stockbroker
 ...
 . Specialized in Small Cap Technology Stock
-recommendations rewarding clients with great
+recommendations rewarded clients with great
 returns on their investments.
-
-1234567891123456789212345678931234567894123456
 
 Jim Walter Intl Sales, Tampa
 87-92: Area Sales Manager Far East Pacific Rim
@@ -152,8 +151,6 @@ Jim Walter Intl Sales, Tampa
 . Created over $2 million/month distribution
 to China from scratch.
 
-1234567891123456789212345678931234567894123456
-
 Telecredit - Tampa
 84-87: Telecomm Technician
 ...
@@ -161,13 +158,144 @@ Telecredit - Tampa
 and changes of telecomm equipment both voice
 and data.
 
-1234567891123456789212345678931234567894123456
-
 EDUCATION:
 University of South Florida, Tampa
 BA Business Management - MIS
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1234567891123456789212345678931234567894123456
+
+
 
 
 
